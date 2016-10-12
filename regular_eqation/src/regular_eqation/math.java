@@ -1,5 +1,5 @@
 package regular_eqation;
-
+//this is a java class
 public class math {
 	public static int pow(int a , int  b)
 	{
