@@ -1,5 +1,5 @@
 
-Êþº¾  // 4   regular_eqation/math  java/lang/Object <init> ()V Code
+Êþº¾4   regular_eqation/math  java/lang/Object <init> ()V Code
   	   LineNumberTable LocalVariableTable this Lregular_eqation/math; pow (II)I a I b result i StackMapTable 
 SourceFile 	math.java !               /     *? ?    
                     	       {     =>? 
