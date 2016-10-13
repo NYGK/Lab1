@@ -357,3 +357,4 @@ public class regular_eqation {
 	}
 
 }
+adfaewwfwfwe

@@ -9,4 +9,4 @@ public class math {
 		return result;
 	}
 }
-afewwfwefw
+afeww
