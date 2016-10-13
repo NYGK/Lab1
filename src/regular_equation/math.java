@@ -10,4 +10,3 @@ public class math {
 	}
 }
 
-This is Wrong!
