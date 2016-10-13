@@ -1,5 +1,7 @@
 package regular_eqation;
-import java.util.*;//
+
+import java.util.*;
+//
 public class regular_eqation {
     int  vnumber;
 	public String equ;
