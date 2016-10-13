@@ -1,6 +1,6 @@
 package regular_equation;
 import java.util.*;
-
+qwfqwfewqfewqfqwef
 public class regular_eqation {
 
 	public String equ;

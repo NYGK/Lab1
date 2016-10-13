@@ -1,5 +1,5 @@
 package regular_equation;
-
+qefqfwqefwqef
 public class product_term {
 	public int coe = 1;
 	public int variable_list[] = new int[26] ;

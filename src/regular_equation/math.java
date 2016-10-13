@@ -1,5 +1,5 @@
 package regular_equation;
-
+qwfqfqwefq
 public class math {
 	public static int pow(int a , int  b)
 	{
